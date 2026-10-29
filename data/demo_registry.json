@@ -1,0 +1,23 @@
+[
+  {
+    "tax_id": "29AAAAA0000A1Z5",
+    "company_name": "Northstar Supplies Ltd",
+    "country": "India",
+    "status": "ACTIVE",
+    "note": "Fictional demonstration record. This is not a real tax ID or registry entry."
+  },
+  {
+    "tax_id": "29BBBBB1111B1Z6",
+    "company_name": "Greenfield Systems Ltd",
+    "country": "India",
+    "status": "ACTIVE",
+    "note": "Fictional demonstration record. This is not a real tax ID or registry entry."
+  },
+  {
+    "tax_id": "29CCCCC2222C1Z7",
+    "company_name": "Apex Trading Ltd",
+    "country": "India",
+    "status": "INACTIVE",
+    "note": "Fictional demonstration record. This is not a real tax ID or registry entry."
+  }
+]
